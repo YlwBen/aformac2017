@@ -5,6 +5,10 @@
     <title></title>
   </head>
   <body>
-    <?php echo "<h1>Coucou</h1>" ?>
+    <?php
+    echo "<h1>Coucou</h1>";
+    echo "<h2>Coucou</h2>";
+    ?>
+
   </body>
 </html>
